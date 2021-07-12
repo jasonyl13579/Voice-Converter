@@ -1,8 +1,20 @@
+StarGAN-Voice-Conversion/data
+StarGAN-Voice-Conversion/out
+StarGAN-Voice-Conversion/trainingData
+StarGAN-Voice-Conversion/converted
+StarGAN-Voice-Conversion/converted_voices
+StarGAN-Voice-Conversion/log
+StarGAN-Voice-Conversion/imgs
+StarGAN-Voice-Conversion/online
+
+Speaker-Identification-Python-master/SampleData
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.rar
+*.zip
 # C extensions
 *.so
 
